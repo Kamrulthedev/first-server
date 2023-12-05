@@ -1,0 +1,183 @@
+[
+    {
+      "id": "1",
+      "image": "https://i.ibb.co/HVfGGn6/image-2022-08-11t101143-915.jpg",
+      "phone_name": "iPhone 14 Pro Max",
+      "brand_name": "Apple",
+      "price": 799.99,
+      "rating": 4.7
+    },
+    {
+      "id": "2",
+      "image": "https://i.ibb.co/Fb5mZZW/03-AFXf-XUHf-QA8i4qv3c-OUUZ-11.webp",
+      "phone_name": "iPhone 14 Pro",
+      "brand_name": "Apple",
+      "price": 899.99,
+      "rating": 4.9
+    },
+    {
+      "id": "3",
+      "image": "https://i.ibb.co/tmRz869/apple-iphone-12-pro-max-space-1677908405-7063ea7c-progressive.jpg",
+      "phone_name": "iPhone 12",
+      "brand_name": "Apple",
+      "price": 999.99,
+      "rating": 3.5
+    },
+    {
+      "id": "4",
+      "image": "https://static-01.daraz.com.bd/p/285dfcce48daca08bbff06e6fb340200.jpg",
+      "phone_name": "iPhone 12 Pro Max",
+      "brand_name": "Apple",
+      "price": 699.99,
+      "rating": 4.5
+    },
+    {
+      "id": "5",
+      "image": "https://static-01.daraz.com.bd/p/ed234dd8498445e98c74028ddd0f966b.jpg",
+      "phone_name": "Samsung Galaxy S21",
+      "brand_name": "Samsung",
+      "price": 899.99,
+      "rating": 2.9
+    },
+    {
+      "id": "6",
+      "image": "https://static-01.daraz.com.bd/p/89a1dda89c94b5bdbe0acbe205fc799c.jpg",
+      "phone_name": "Samsung Galaxy F23",
+      "brand_name": "Samsung",
+      "price": 1099.99,
+      "rating": 5.0
+    },
+    {
+      "id": "7",
+      "image": "https://static-01.daraz.com.bd/p/3fc5a8e21be21833bd0bcf2b8382fddc.jpg",
+      "phone_name": "Samsung Galaxy A33",
+      "brand_name": "Samsung",
+      "price": 999.99,
+      "rating": 4.7
+    },
+    {
+      "id": "8",
+      "image": "https://static-01.daraz.com.bd/p/ed234dd8498445e98c74028ddd0f966b.jpg",
+      "phone_name": "Samsung Galaxy Note 5",
+      "brand_name": "Samsung",
+      "price": 999.99,
+      "rating": 4.7
+    },
+  
+  
+    {
+      "id": "9",
+      "image": "https://static-01.daraz.com.bd/p/627f7b3da3437c31a24cb6d1a9eb51bd.jpg",
+      "phone_name": "Xiaomi Redmi 11",
+      "brand_name": "Xiaomi",
+      "price": 1199.99,
+      "rating": 4.8
+    },
+    {
+      "id": "10",
+      "image": "https://static-01.daraz.com.bd/p/ff3deae774e41a9491019b2d893d5a4c.jpg",
+      "phone_name": "Xiaomi Redmi Note 12C",
+      "brand_name": "Xiaomi",
+      "price": 1299.99,
+      "rating": 3.9
+    },
+    {
+      "id": "11",
+      "image": "https://static-01.daraz.com.bd/p/30e0eae11e7cfcf2924cf41d283553ae.jpg",
+      "phone_name": "Xiaomi Redmi 10A",
+      "brand_name": "Xiaomi",
+      "price": 1099.99,
+      "rating": 4.7
+    },
+    {
+      "id": "13",
+      "image": "https://static-01.daraz.com.bd/p/19b133906213bcccda357d36de841f97.jpg",
+      "phone_name": "Redmi 10 Poro",
+      "brand_name": "Xiaomi",
+      "price": 1399.99,
+      "rating": 5.8
+    }
+    ,
+    {
+      "id": "13",
+      "image": "https://i.ibb.co/XYv35hr/maxresdefault.jpg",
+      "phone_name":"Redmi Note 14 Pro 5G",
+      "brand_name": "Xiaomi",
+      "price": 2889.99,
+      "rating": 2.8
+    }
+    ,
+    {
+      "id": "14",
+      "image": "https://i.ibb.co/6NCHtFt/maxresdefault-1.jpg",
+      "phone_name": "Xiami 14 Poro Max",
+      "brand_name": "Xiami",
+      "price": 2556.99,
+      "rating": 8.8
+    }
+    ,
+    {
+      "id": "15",
+      "image": "https://i.ibb.co/vzjQFT1/4-zu-3-Teaser-News.jpg",
+      "phone_name": "Redmi 11 poro",
+      "brand_name": "Xiaomi",
+      "price": 1399.99,
+      "rating": 9.8
+    }
+    ,
+    {
+      "id": "16",
+      "image": "https://i.ibb.co/hsMjSPZ/find-n2-flip-709x800-1671114798.webp",
+      "phone_name": "Oppo Find N2",
+      "brand_name": "Oppo",
+      "price": 899.99,
+      "rating": 9.2
+    }
+    ,
+    {
+      "id": "17",
+      "image": "https://i.ibb.co/C1hXWLP/Foto-Jet-7-19-635x430.jpg",
+      "phone_name": "Vivo  X70 Pro Plus",
+      "brand_name": "Vivo",
+      "price": 2982.99,
+      "rating": 7.8
+    }
+    ,
+    {
+      "id": "18",
+      "image": "https://i.ibb.co/tQLhwj7/720-X720-1.webp",
+      "phone_name": "Samsung Galaxy S23 Ultra",
+      "brand_name": "Samsung",
+      "price": 9882.99,
+      "rating": 9.3
+    }
+    ,
+    {
+      "id": "19",
+      "image": "https://i.ibb.co/QfNVXM3/Infinix-GT-10-Pro-Review.webp",
+      "phone_name": "Infinix-GT-10",
+      "brand_name": "Infinix",
+      "price": 7082.00,
+      "rating": 6.3
+    }
+    ,
+    {
+      "id": "20",
+      "image": "https://i.ibb.co/6RSrXyL/3959745602.webp",
+      "phone_name": "Oppo Reno 9 pro",
+      "brand_name": "Oppo",
+      "price": 18002.10,
+      "rating": 5.3
+    }
+    ,
+    {
+      "id": "21",
+      "image": "https://i.ibb.co/7jgTxGF/1688631318-Oppo-Reno-10-Pro-specs-1-800x800-four-to-three.webp",
+      "phone_name": "Oppo Reno 10 pro",
+      "brand_name": "Oppo",
+      "price": 19002.60,
+      "rating": 5.3
+    }
+    
+
+  ]
